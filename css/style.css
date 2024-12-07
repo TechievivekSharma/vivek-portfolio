@@ -58,13 +58,13 @@ h1,
 main > section {
   float: left;
   width: 63%;
-  margin: 90px 50px 20px;
+  
 }
 
 .main-social-links {
   width: 5vw;
-
-  margin: 150px 800px 0px;
+margin:auto;
+margin-top: 4.8rem;
 }
 
 h2 {
@@ -76,6 +76,7 @@ h2 {
 h3 {
   font-family: "Satoshi 900";
   font-size: 2rem;
+  
 }
 
 h4 {
@@ -459,6 +460,7 @@ main {
   display: inline-block;
   text-align: center;
   line-height: 20px;
+  background-color: red;
 }
 
 #skills {

@@ -30,7 +30,9 @@
   
   main {
     display: block;
-  }
+    width: 60%;
+    min-height: 500px;
+   }
   
   /**
    * Correct the font size and margin on `h1` elements within `section` and
